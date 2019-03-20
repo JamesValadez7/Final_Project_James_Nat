@@ -10,6 +10,9 @@
 <center>
 <img src="https://github.com/ngoodby/Final_Project_James_Nat/blob/master/ProjectPhotop.jpg" width="800">
 </center>
+<center>
+<img src="https://github.com/JamesValadez7/Final_Project_James_Nat/blob/master/James-Valadez_092017_01.jpg width="800">
+                                                                                                                      </center>                                                                                                                      
 
 In this repo you can find:
 
